@@ -19,7 +19,7 @@ This project is to classify disaster response messages through machine learning.
 
 > python run.py
 
-## Screenshots
+## Screenshots:
 This is the frontpage:
 ![Alt text](https://github.com/janierkkilae/Disaster-Response-Pipelines/blob/master/Screenshot1.PNG?raw=true "Screenshot1")
 
