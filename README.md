@@ -1,4 +1,4 @@
-# Disaster Response Pipeline Project
+# Disaster Response Pipeline Project:
 This project is to classify disaster response messages through machine learning. 
 
 ## Content
