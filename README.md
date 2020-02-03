@@ -1,7 +1,7 @@
 # Disaster Response Pipeline Project:
 This project is to classify disaster response messages through machine learning. 
 
-## Content
+## Content:
 - Data
   - process_data.py: reads in the data, cleans and stores it in a SQL database. Basic usage is python process_data.py MESSAGES_DATA CATEGORIES_DATA NAME_FOR_DATABASE
   - disaster_categories.csv and disaster_messages.csv (dataset)
